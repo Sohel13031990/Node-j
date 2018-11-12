@@ -1,0 +1,23 @@
+{
+  "name": "paddle",
+  "version": "1.0.0",
+  "description": "short trip bike rental service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohel13031990/Node-j.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sohel13031990/Node-j/issues"
+  },
+  "homepage": "https://github.com/Sohel13031990/Node-j#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
